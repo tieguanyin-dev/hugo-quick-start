@@ -1,12 +1,9 @@
 ---
 title: "My First Post"
-date: 2019-01-04T15:59:28-08:00
+date: 2026-04-27T15:59:28-08:00
 ---
 
 Yu Shaiou
-CMR 480 BOX 15, APO, AE 09128
-Email: yushaiou@gmail.com
-Phone: 240-888-8736
 
 ## SUMMARY
 
